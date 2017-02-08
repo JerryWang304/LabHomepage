@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+= System and Software Security Lab
+
+== About us
+~~~
+{}{img_left}{logo.jpeg}{500px}{400px}
+System and Software Security Lab(S3L) is in [http://sist.shanghaitech.edu.cn School of Information Science and Technology] at [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech] \n
+
+Research in S3L focus on Model-checking, Binary/Source program analysis & verification, Computer security, automata and logics.
+~~~
